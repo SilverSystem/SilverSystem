@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Joseph</h1>
 <h3 align="center">I want to contribute to the advancement of the world with code👨‍💻, I am characterized for being a proactive person who constantly seeks to improve and learn, always looking for new challenges and ways to improve my skills with a positive attitude, with the will and motivation to learn new technologies and how i can apply them for better troubleshooting. Prepared to use my skills and passion to contribute to a team's mission.</h3>
 
-- 🌱 I’m currently learning **Angular, MongoDB**
+- 🌱 I’m currently learning **Python, Django**
 
-- ❓ Ask me about anything related to **PERN stack and related technologies**
+- ❓ Ask me about anything related to **MERN stack and related technologies**
 
 - 📫 How to reach me **josephdavidpalacios@gmail.com**
 
